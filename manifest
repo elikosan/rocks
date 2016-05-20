@@ -15,6 +15,14 @@ repository = {
             arch = "rockspec"
          }
       }
+   },
+
+   torch = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
    }
    
 }
