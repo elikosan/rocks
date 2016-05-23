@@ -13,7 +13,8 @@ description = {
 }
 
 dependencies = {
-
+  "lua >= 5.1",
+   "torch >= 7.0"
 }
 
 build = {
