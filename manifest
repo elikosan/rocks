@@ -1,7 +1,7 @@
 commands = {}
 modules = {}
 repository = {
-   ["lmdb.torch"] = {
+   lmdb = {
       ["scm-1"] = {
          {
             arch = "rockspec"
