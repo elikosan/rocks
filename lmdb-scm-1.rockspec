@@ -1,4 +1,4 @@
-package = "Lightningmdb"
+package = "lmdb"
 version = "scm-1"
 source = {
    url = "git://github.com/elikosan/lightningdbm.git"
