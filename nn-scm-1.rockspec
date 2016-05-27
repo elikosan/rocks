@@ -2,7 +2,7 @@ package = "nn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/diz-vara/nn.git",
+   url = "git://github.com/elikosan/nn.git",
 }
 
 description = {
