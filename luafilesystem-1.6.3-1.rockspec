@@ -1,4 +1,4 @@
-package = "LuaFileSystem"
+package = "luafilesystem"
 version = "1.6.3-1"
 source = {
    url = "git://github.com/elikosan/luafilesystem"
