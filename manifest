@@ -37,6 +37,14 @@ repository = {
             arch = "rockspec"
          }
       }
+   },
+
+   cutorch = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
    }
    
 }
