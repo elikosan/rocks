@@ -45,6 +45,14 @@ repository = {
             arch = "rockspec"
          }
       }
+   },
+
+   cunn = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
    }
    
 }
