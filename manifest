@@ -53,6 +53,70 @@ repository = {
             arch = "rockspec"
          }
       }
+   },
+
+   cudnn.torch = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+
+   argcheck = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+
+   sys = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+
+   sundown = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+
+   optim = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+
+   xlua = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+
+   paths = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+
+   cwrap = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
    }
    
 }
