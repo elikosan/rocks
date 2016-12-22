@@ -8,6 +8,13 @@ repository = {
          }
       }
    },
+   image = {
+      ["1.0-0"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    lmdb = {
       ["scm-1"] = {
          {
