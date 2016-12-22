@@ -2,7 +2,7 @@ package = "cwrap"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/cwrap.git",
+   url = "git://github.com/elikosan/cwrap.git",
 }
 
 description = {
