@@ -69,7 +69,14 @@ repository = {
          }
       }
    },
-
+   
+   cudnn = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    argcheck = {
       ["scm-1"] = {
          {
