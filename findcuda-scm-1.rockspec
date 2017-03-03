@@ -2,14 +2,14 @@ package = "findcuda"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/FindCUDA.git",
+   url = "git://github.com/elikosan/FindCUDA.git",
 }
 
 description = {
    summary = "cmake FindCUDA module",
    detailed = [[
    ]],
-   homepage = "https://github.com/hughperkins/FindCUDA.git",
+   homepage = "https://github.com/elikosan/FindCUDA.git",
    license = "MIT"
 }
 
