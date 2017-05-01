@@ -131,6 +131,14 @@ repository = {
             arch = "rockspec"
          }
       }
+   },
+
+   dok = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
    }
    
 }
