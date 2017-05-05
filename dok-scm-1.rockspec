@@ -3,6 +3,7 @@ version = "scm-1"
 
 source = {
    url = "git://github.com/elikosan/dok.git",
+   branch="2017-05-04"
 }
 
 description = {

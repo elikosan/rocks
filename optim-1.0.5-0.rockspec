@@ -3,6 +3,7 @@ version = "1.0.5-0"
 
 source = {
    url = "git://github.com/elikosan/optim",
+   branch="2017-05-04"
 }
 
 description = {

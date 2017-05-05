@@ -3,6 +3,7 @@ version = "1.0-0"
 
 source = {
    url = "git://github.com/elikosan/image"
+   branch="2017-05-04"
 }
 
 description = {
