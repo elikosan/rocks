@@ -2,8 +2,7 @@ package = "image"
 version = "1.1.alpha-0"
 
 source = {
-   url = "git://github.com/torch/image",
-   branch = "2017-05-04"
+   url = "git://github.com/elikosan/image"
 }
 
 description = {
