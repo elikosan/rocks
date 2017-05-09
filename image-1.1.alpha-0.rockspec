@@ -2,7 +2,7 @@ package = "image"
 version = "1.1.alpha-0"
 
 source = {
-   url = "git://github.com/elikosan/image",
+   url = "git://github.com/elikosan/image.git",
    branch = "2017-05-04"
 }
 
