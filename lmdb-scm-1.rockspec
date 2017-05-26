@@ -2,7 +2,8 @@ package = "lmdb"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/elikosan/lmdb.git"
+   url = "git://github.com/elikosan/lmdb.git",
+   branch="2017-05-26"
 }
 
 description = {

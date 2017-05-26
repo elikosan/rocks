@@ -3,6 +3,7 @@ version = "scm-1"
 
 source = {
    url = "git://github.com/elikosan/cwrap.git",
+   branch="2017-05-26"
 }
 
 description = {

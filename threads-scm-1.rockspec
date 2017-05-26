@@ -2,7 +2,8 @@ package = "threads"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/elikosan/threads.git"
+   url = "git://github.com/elikosan/threads.git",
+   branch="2017-05-26"
 }
 
 description = {

@@ -2,7 +2,8 @@ package = "cudnn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/elikosan/cudnn.torch.git"
+   url = "git://github.com/elikosan/cudnn.torch.git",
+   branch="2017-05-26"   
 }
 
 description = {

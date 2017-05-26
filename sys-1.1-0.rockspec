@@ -2,7 +2,8 @@ package = "sys"
 version = "1.1-0"
 
 source = {
-   url = "git://github.com/elikosan/sys"
+   url = "git://github.com/elikosan/sys",
+   branch="2017-05-26"
 }
 
 description = {
