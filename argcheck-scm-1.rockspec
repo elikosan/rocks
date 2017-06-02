@@ -2,7 +2,8 @@ package = "argcheck"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/elikosan/argcheck.git"
+   url = "git://github.com/elikosan/argcheck.git",
+   branch = "2017-06-01"
 }
 
 description = {

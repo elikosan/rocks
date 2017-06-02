@@ -3,6 +3,7 @@ version = "scm-1"
 
 source = {
    url = "git://github.com/elikosan/paths.git",
+   branch = "2017-06-01"
 }
 
 description = {

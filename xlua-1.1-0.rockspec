@@ -3,6 +3,7 @@ version = "1.1-0"
 
 source = {
    url = "git://github.com/elikosan/xlua",
+   branch = "2017-06-01"
 }
 
 description = {
