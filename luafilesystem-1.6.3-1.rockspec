@@ -1,7 +1,7 @@
 package = "luafilesystem"
 version = "1.6.3-1"
 source = {
-   url = "git://github.com/elikosan/luafilesystem"
+   url = "git://github.com/elikosan/luafilesystem.git"
 }
 description = {
    summary = "File System Library for the Lua Programming Language",
