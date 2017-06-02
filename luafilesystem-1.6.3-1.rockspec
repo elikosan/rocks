@@ -1,7 +1,8 @@
 package = "luafilesystem"
 version = "1.6.3-1"
+
 source = {
-   url = "git://github.com/elikosan/luafilesystem",
+   url = "git://github.com/elikosan/luafilesystem.git",
    branch = "2017-06-01"
 }
 description = {
