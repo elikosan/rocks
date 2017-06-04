@@ -1,6 +1,13 @@
 commands = {}
 modules = {}
 repository = {
+   moses = {
+      ["1.6.1-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    luafilesystem = {
       ["1.6.3-1"] = {
          {
