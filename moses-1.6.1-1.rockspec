@@ -1,8 +1,7 @@
 package = "moses"
 version = "1.6.1-1"
 source = {
-   url = "git://github.com/elikosan/Moses.git",
-   branch = "2017-06-01"
+   url = "git://github.com/elikosan/Moses.git"
 }
 description = {
    summary = "Utility-belt library for functional programming in Lua",
