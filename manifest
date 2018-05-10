@@ -37,6 +37,14 @@ repository = {
       }
    },
 
+   torchx = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+
    nn = {
       ["scm-1"] = {
          {
