@@ -45,6 +45,14 @@ repository = {
       }
    },
 
+   autograd = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+   
    torch = {
       ["scm-1"] = {
          {
